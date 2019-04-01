@@ -2,4 +2,4 @@
 
 Program to calculate the best bets for final Jeopardy
 
-December 2017
+(December 2017)
